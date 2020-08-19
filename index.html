@@ -6,9 +6,10 @@
 		<script type="text/javascript">
 			var to = location.href.substring(location.href.split('?')[0].length + 1);
 			if(to !== '') {
+				location.href = "kakaotalk://inappbrowser/close"
 				location.href = to;
 			} else {
-				location.href = "kakaotalk://inappbrowser/close"
+				location.href = "kakaotalk://inappbrowser/close";
 			}
 		</script>
 	</body>
