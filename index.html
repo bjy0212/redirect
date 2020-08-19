@@ -1,0 +1,14 @@
+<html>
+	<head>
+	<head>
+	<body>
+		<script>
+			var to = location.href.substring(location.href.split('?')[0].length + 1);
+			if(to !== '') {
+				location.href = to;
+			} else {
+				location.href = kakaotalk://inappbrowser/close
+			}
+		</script>
+	</body>
+</html>
