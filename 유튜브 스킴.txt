@@ -1,1 +1,2 @@
 kakao://launch?pkgnames=["com.google.android.youtube"]
+bjy0212.github.io/redirect/?vnd.youtube://youtu.be/a7PpQ0EK9Lw
